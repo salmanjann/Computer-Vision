@@ -1,0 +1,17 @@
+
+# Dataset configuration for dice detection
+train: D:\Semester 8\Computer-Vision\Assignments\A4/dataset/train/images  # Train images folder
+val: D:\Semester 8\Computer-Vision\Assignments\A4/dataset/val/images      # Validation images folder
+test: D:\Semester 8\Computer-Vision\Assignments\A4/dataset/test/images    # Test images folder
+
+# Number of classes
+nc: 6  # 6 dice faces (1-6)
+
+# Class names
+names:
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+  4: 5
+  5: 6
